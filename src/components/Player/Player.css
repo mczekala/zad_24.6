@@ -1,0 +1,8 @@
+.Player {
+    list-style-type: none;
+    padding:10px;
+    color: #fff;
+}
+.Player_score {
+    padding: 10px;
+}
